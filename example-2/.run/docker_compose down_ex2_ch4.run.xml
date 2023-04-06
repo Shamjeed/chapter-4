@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="docker_compose down_ex2_ch4" type="PowerShellRunType" factoryName="PowerShell" scriptUrl="C:\Users\shamj\IdeaProjects\bootstrapping-microservices\chapter-4\example-2\docker_compose_down.ps1" workingDirectory="C:\Users\shamj\IdeaProjects\bootstrapping-microservices\chapter-4\example-2" executablePath="C:\Program Files\PowerShell\7\pwsh.exe">
+    <envs>
+      <env name="STORAGE_ACCESS_KEY" value="FCSq5pnJKYyYktygmxtgBjLAcx6KiIw/XBJJp0bJdhOeBKFKg5RuLMaFSK6FG35j15PEEQjNBbED+AStSAbzcA==" />
+      <env name="STORAGE_ACCOUNT_NAME" value="msmicroboot" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>

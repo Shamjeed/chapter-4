@@ -1,0 +1,1 @@
+docker compose up --builddocker_compose_up.ps1
